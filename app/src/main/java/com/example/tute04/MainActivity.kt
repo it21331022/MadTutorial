@@ -15,6 +15,7 @@ import com.example.tute04.validations.ValidationResult
 class MainActivity : AppCompatActivity() {
     lateinit var edtStudentId: EditText
     lateinit var spnYear: Spinner
+    //james cameroon
     lateinit var spnSemester:Spinner
     lateinit var cbAgree: CheckBox
     lateinit var tvYear: TextView
